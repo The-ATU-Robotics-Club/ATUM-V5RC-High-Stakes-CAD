@@ -1,0 +1,3 @@
+[submodule "VEX-CAD-Inventor"]
+	path = VEX-CAD-Inventor
+	url = .\\VEX-CAD-Inventor\\
