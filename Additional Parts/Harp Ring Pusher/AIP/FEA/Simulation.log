@@ -1,0 +1,157 @@
+﻿Study Shape Generator:1 started: 12/11/2024, 3:16:44 PM
+Number of configurations: 1
+Default mesh: 12166 elements, 18955 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 12/11/2024, 3:17:45 PM
+Total time 0:01:01
+
+Study Shape Generator:1 started: 12/11/2024, 3:18:24 PM
+Number of configurations: 1
+Default mesh: 12166 elements, 18955 nodes
+Study Shape Generator:1 failed. 12/11/2024, 3:18:25 PM
+Total time 0:00:01
+
+Study Shape Generator:1 started: 12/11/2024, 3:20:14 PM
+Number of configurations: 1
+Default mesh: 12166 elements, 18955 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 12/11/2024, 3:21:05 PM
+Total time 0:00:51
+
+Study Shape Generator:1 started: 12/11/2024, 3:25:12 PM
+Number of configurations: 1
+Default mesh: 12166 elements, 18955 nodes
+Study Shape Generator:1 failed. 12/11/2024, 3:25:13 PM
+Total time 0:00:01
+
+Study Shape Generator:1 started: 12/11/2024, 3:26:01 PM
+Number of configurations: 1
+Default mesh: 12166 elements, 18955 nodes
+Study Shape Generator:1 failed. 12/11/2024, 3:26:01 PM
+Total time 0:00:00
+
+Study Shape Generator:1 started: 12/11/2024, 3:27:26 PM
+Number of configurations: 1
+Default mesh: 12166 elements, 18955 nodes
+Study Shape Generator:1 failed. 12/11/2024, 3:27:27 PM
+Total time 0:00:01
+
+Study Shape Generator:1 started: 12/11/2024, 3:42:20 PM
+Number of configurations: 1
+Default mesh: 15135 elements, 23683 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 12/11/2024, 3:43:37 PM
+Total time 0:01:17
+
+Study Shape Generator:1 started: 12/11/2024, 3:45:10 PM
+Number of configurations: 1
+Default mesh: 15135 elements, 23683 nodes
+Study Shape Generator:1 failed. 12/11/2024, 3:45:11 PM
+Total time 0:00:01
+
+Study Shape Generator:1 started: 12/11/2024, 3:46:04 PM
+Number of configurations: 1
+Default mesh: 15135 elements, 23683 nodes
+Study Shape Generator:1 failed. 12/11/2024, 3:46:06 PM
+Total time 0:00:02
+
+Study Shape Generator:1 started: 12/11/2024, 3:47:43 PM
+Number of configurations: 1
+Default mesh: 15135 elements, 23683 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 12/11/2024, 3:48:34 PM
+Total time 0:00:51
+
+Study Shape Generator:1 started: 12/11/2024, 4:25:34 PM
+Number of configurations: 1
+Default mesh: 5173 elements, 9831 nodes
+Study Shape Generator:1 failed. 12/11/2024, 4:26:18 PM
+Total time 0:00:44
+
+Study Static Analysis:1 started: 12/11/2024, 4:28:11 PM
+Number of configurations: 1
+Default mesh: 1159 elements, 2441 nodes
+Convergence rate: 31.5%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 12/11/2024, 4:28:13 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 12/11/2024, 4:29:31 PM
+Number of configurations: 1
+Default mesh: 1159 elements, 2441 nodes
+Convergence rate: 18.3%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 12/11/2024, 4:29:33 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 12/11/2024, 4:32:35 PM
+Number of configurations: 1
+Default mesh: 1237 elements, 2660 nodes
+Convergence rate: 27.4%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 12/11/2024, 4:32:38 PM
+Total time 0:00:03
+
+Study Static Analysis:1 started: 12/11/2024, 4:35:24 PM
+Number of configurations: 1
+Default mesh: 2080 elements, 4024 nodes
+Convergence rate: 14%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 12/11/2024, 4:35:26 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 12/11/2024, 4:39:16 PM
+Number of configurations: 1
+Study Static Analysis:1 finished: 12/11/2024, 4:39:16 PM
+Total time 0:00:00
+
+Study Static Analysis:1 started: 12/11/2024, 4:40:08 PM
+Number of configurations: 1
+Study Static Analysis:1 finished: 12/11/2024, 4:40:08 PM
+Total time 0:00:00
+
+Study Static Analysis:1 started: 12/11/2024, 4:41:13 PM
+Number of configurations: 1
+Default mesh: 2013 elements, 3955 nodes
+Convergence rate: 26.7%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 12/11/2024, 4:41:16 PM
+Total time 0:00:03
+
+Study Static Analysis:1 started: 12/11/2024, 4:42:55 PM
+Number of configurations: 1
+Default mesh: 2013 elements, 3955 nodes
+Convergence rate: 30.4%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 12/11/2024, 4:42:57 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 12/11/2024, 4:43:33 PM
+Number of configurations: 1
+Default mesh: 2063 elements, 4005 nodes
+Convergence rate: 23.3%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 12/11/2024, 4:43:35 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 12/11/2024, 4:44:36 PM
+Number of configurations: 1
+Default mesh: 1278 elements, 2721 nodes
+Convergence rate: 28.7%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 12/11/2024, 4:44:38 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 12/11/2024, 4:45:41 PM
+Number of configurations: 1
+Default mesh: 2013 elements, 3955 nodes
+Convergence rate: 30.4%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 12/11/2024, 4:45:44 PM
+Total time 0:00:03
+
+Study Static Analysis:1 started: 12/11/2024, 4:46:22 PM
+Number of configurations: 1
+Study Static Analysis:1 finished: 12/11/2024, 4:46:22 PM
+Total time 0:00:00
+
