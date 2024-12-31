@@ -1,0 +1,28 @@
+﻿Study Static Analysis:1 started: 12/22/2024, 3:20:30 AM
+Number of configurations: 1
+Certain parts of the model are extremely thin, which can lead to long meshing/solution times and numerical instabilities in the results. Use careful judgment when interpreting the results.
+Body Conveyor Brace.ipt is thin
+Study Static Analysis:1 failed. 12/22/2024, 3:22:15 AM
+Total time 0:01:45
+
+Study Static Analysis:1 started: 12/22/2024, 3:23:01 AM
+Number of configurations: 1
+Certain parts of the model are extremely thin, which can lead to long meshing/solution times and numerical instabilities in the results. Use careful judgment when interpreting the results.
+Body Conveyor Brace.ipt is thin
+Study Static Analysis:1 failed. 12/22/2024, 3:23:44 AM
+Total time 0:00:43
+
+Study Static Analysis:1 started: 12/22/2024, 3:24:36 AM
+Number of configurations: 1
+Certain parts of the model are extremely thin, which can lead to long meshing/solution times and numerical instabilities in the results. Use careful judgment when interpreting the results.
+Body Conveyor Brace.ipt is thin
+Study Static Analysis:1 failed. 12/22/2024, 3:25:20 AM
+Total time 0:00:44
+
+Study Static Analysis:1 started: 12/22/2024, 3:26:01 AM
+Number of configurations: 1
+Certain parts of the model are extremely thin, which can lead to long meshing/solution times and numerical instabilities in the results. Use careful judgment when interpreting the results.
+Body Conveyor Brace.ipt is thin
+Study Static Analysis:1 failed. 12/22/2024, 3:27:42 AM
+Total time 0:01:41
+
